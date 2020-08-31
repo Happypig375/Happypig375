@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Happypig375/Happypig375/master/images/Icon.svg"/>
+<img src="https://raw.githubusercontent.com/Happypig375/Happypig375/master/Images/Banner.svg"/>
 
 <!--
 ### Hi there 👋
