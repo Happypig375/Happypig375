@@ -1,4 +1,5 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/Happypig375/Happypig375/master/Images/Banner.svg"/></a>
+<!--PNG to SVG: https://graphicdesign.stackexchange.com/a/108062 -> fix viewBox quotes and add value from PNG -> add width="100%" -> add height="auto" -->
 
 <!--
 ### Hi there 👋
