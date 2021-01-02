@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/Happypig375/Happypig375/master/Images/Banner.svg"/></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/Happypig375/Happypig375/master/Images/Banner.svg" width="80%"/><img src="https://i.redd.it/snoovatar/snoovatars/9c6f2064-d36c-4b6f-bc2e-7df09632a949.png" width="20%"/></a>
 <!--PNG to SVG: https://graphicdesign.stackexchange.com/a/108062 -> fix viewBox quotes and add value from PNG -> add width="100%" -> add height="auto" -->
 
 <!--
